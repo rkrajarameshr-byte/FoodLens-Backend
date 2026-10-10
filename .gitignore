@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+**/target/
+**/__pycache__/
+**/.venv/
+**/venv/
+*.pyc
+*.log
+*.backup*
+*.before-*
+*.pem
+*.key
+.DS_Store
+*.safe-backup
